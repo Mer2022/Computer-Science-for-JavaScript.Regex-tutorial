@@ -1,10 +1,10 @@
 # Title (replace with your title)
 
-Introductory paragraph (replace this with your text)
+Regex Tutorial
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial will contain explanation of Regex components that includes Anchors, Quantifiers, Grouping Constructs, Bracket Expressions, Character Classes, The OR Operator, Flags and Character Escapes.  
 
 ## Table of Contents
 
@@ -235,4 +235,5 @@ As you can see, using character escapes can make your regular expressions more p
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Merrin and I am an aspiring web developer.
+Github:  https://github.com/Mer2022
