@@ -1,6 +1,4 @@
-# Title (replace with your title)
-
-Regex Tutorial
+# Regex Tutorial
 
 ## Summary
 
